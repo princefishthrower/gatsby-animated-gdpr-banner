@@ -1,8 +1,10 @@
 # gatsby-animated-gdpr-banner
 
+A minimalistic GDPR banner for Gatsby sites using Bootstrap styles.
+
 ![The resulting cookies component from GDPRBanner.tsx](./cookies.gif)
 
-A minimalistic GDPR banner for Gatsby sites using Bootstrap styles.
+[Check out the GitHub Pages site running this repository!](https://princefishthrower.github.io/gatsby-animated-gdpr-banner/)
 
 Package changes compared to Gatsby starter:
 
